@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src='./src/assets/favicon.svg'/ height="125" width="125">
+  <img src='https://github.com/roubalsehgal/DALL-E-AI-Image-Generator/blob/main/client/public/screenshots/favicon.jpg'/ height="125" width="125">
   <h1>DALL E 2.0 - AI Image Generator</h1>
   <p><strong>A Full-Stack web application that generates images with the help of AI using OPEN AI.</strong></p>
 </div>
@@ -18,11 +18,7 @@ This app is built for the purpose of honing my skills in full stack development.
 
 #### Home Page :
 
-<img src="https://github.com/roubalsehgal/Natours-App/blob/main/public/screenshots/home-screen.png" width="640">
-
-#### Tour Details :
-
-<img src="https://github.com/roubalsehgal/Natours-App/blob/main/public/screenshots/tour-detail-screen.png" width="640">
+<img src="https://github.com/roubalsehgal/DALL-E-AI-Image-Generator/blob/main/client/public/screenshots/home-screen.jpeg" width="640">
 
 ## Tools And Technologies Used
 
